@@ -1,0 +1,28 @@
+name: Lawyer
+favicon: null
+layout_spectrum: 0.7542806188575923
+typography_spectrum: 0.8753368593752384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21942634996958077
+  lightness: 0.7310639820061624
+  saturation: 0.7907793668564409
+  rhythmicContrast: 0.9711713287979364
+purpose: []
